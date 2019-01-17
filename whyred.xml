@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for whyred">https://sourceforge.net/projects/liquid-remix/files/whyred/liquid_remix-10.0.3-20181224-OFFICIAL-whyred.zip/download</RomUrl>
+                description="Download latest build for whyred">https://sourceforge.net/projects/liquid-remix/files/whyred/liquid_remix-10.0.3-20190118-OFFICIAL-whyred.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
